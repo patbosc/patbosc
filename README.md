@@ -1,4 +1,4 @@
-### Hi there 👋 I am Patric. I am a former Microsoft Evangelist based in germany. I work with dotnet and azure. 
+### Hi there 👋 I am Patric. I am a former Microsoft FTE based in germany. I work with dotnet and azure. 
 
 <!--
 **patbosc/patbosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
