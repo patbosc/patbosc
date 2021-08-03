@@ -1,9 +1,10 @@
 ### Hi there 👋 I am Patric. I work with dotnet and Microsoft Azure.
 
+![Patrics Github Stats](https://github-readme-stats.vercel.app/api?username=patbosc)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **patbosc/patbosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Patrics Github Stats](https://github-readme-stats.vercel.app/api?username=patbosc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Here are some ideas to get you started:
